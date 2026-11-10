@@ -331,6 +331,6 @@ flowchart LR
 ### smartools から移した / 2026-11-11
 
 - コンセプトが違うため、smartools から Toolbox Pro(このリポジトリ)へ移した。中身は変えていない。
-- 盤から音を読む部品 `common/turntable-worklet.js` は、smartools の DJデッキと共有していた。移した後は、両方のリポジトリに1つずつある。直す時は、もう片方に入れるかを考える。
+- 盤から音を読む部品 `common/turntable-worklet.js` は DJデッキと共有している。DJデッキも同じ日にこのリポジトリへ移したので、共有はこのリポジトリの中で続く。
 - 試験: `node tests/core.js`、`node tests/smoke.js all`、`node tests/scenarios/dj-turntable-pro.js` が合格。
 

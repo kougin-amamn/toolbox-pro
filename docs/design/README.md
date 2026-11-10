@@ -16,6 +16,7 @@
 | [device.md](./device.md) | 端末の機能(`common/device.js`。`tool-kit.js` が読む) |
 | [page-base.md](./page-base.md) | ページの土台: ヘッダのボタンと読み込み確認(`common/site.js`・各ページの HTML) |
 | [page-exit.md](./page-exit.md) | ページを離れる時の終了処理(`common/device.js`。段 2 まで実装) |
+| [dj-decks.md](./dj-decks.md) | DJデッキ: 2台+ミキサーの分かりやすい版(`tools/dj-decks`。2026-11-11 に smartools から移した) |
 | [dj-turntable-pro.md](./dj-turntable-pro.md) | DJターンテーブル Pro 2台+ミキサー(`tools/dj-turntable-pro`。2026-11-11 に smartools から移した) |
 
 ## 書き方の決まり
