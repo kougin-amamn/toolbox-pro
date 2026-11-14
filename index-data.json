@@ -1,4 +1,5 @@
 [
   {"cat": "メディア", "slug": "dj-turntable-pro", "title": "DJターンテーブル Pro", "en": "DJ Turntable Pro", "desc": "2台のレコードとミキサーで DJ。スクラッチ・ピッチ・EQ・波形と BPM・ホットキュー"},
-  {"cat": "メディア", "slug": "dj-decks", "title": "DJデッキ", "en": "DJ Decks", "desc": "2台のレコードとミキサーで曲をつなぐ。文字のボタンとスライダーで分かりやすい"}
+  {"cat": "メディア", "slug": "dj-decks", "title": "DJデッキ", "en": "DJ Decks", "desc": "2台のレコードとミキサーで曲をつなぐ。文字のボタンとスライダーで分かりやすい"},
+  {"cat": "読む", "slug": "novel-reader", "title": "小説読み上げ", "en": "Novel Reader", "desc": "Web小説の1話を、作者のルビと形態素解析の読みでブラウザの音声合成が朗読する"}
 ]
